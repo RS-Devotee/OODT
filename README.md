@@ -1,5 +1,5 @@
 # OODT：Oriented Object Detection and Tracking in SVD
-This is the official address of the OODT dataset.
+This is the official website of the **OODT** dataset.
 
 ## Data download link
 Baidu netdisk：https://pan.baidu.com/s/1hY-RF2tk914vgr-JqcLF2g (Extraction Code:OODT)  
@@ -44,7 +44,7 @@ The multi-object tracking (MOT) datasets is tentatively labeled with 8602 vehicl
 ### (1)SOT
 The raw satellite video data is collected from various sources, such as the JiLin-1 satellite constellation [<sup>[1]</sup>](#R1), SkySat satellite constellation[<sup>[2]</sup>](#R2), object tracking contests [<sup>[3]</sup>](#R3)[<sup>[4]</sup>](#R4)[<sup>[5]</sup>](#R5), and some other publicly available videos [<sup>[6]</sup>](#R6)[<sup>[7]</sup>](#R7)).
 ### (2)MOT
-SVD1 and SVD2 are collected from [<sup>[8]</sup>](#R8).SVD3 is collected from [<sup>[9]</sup>](#R9).SVD4 is collected from [<sup>[10]</sup>](#R10).And SVD5 is collected from [<sup>[11]</sup>](#R11).
+SVD1 and SVD2 are collected from [<sup>[8]</sup>](#R8). SVD3 is collected from [<sup>[9]</sup>](#R9) .SVD4 is collected from [<sup>[10]</sup>](#R10). And SVD5 is collected from [<sup>[11]</sup>](#R11).
 ### (3)Source
 <div><a name="R1"></a>  
 [1] https://mall.charmingglobe.com/Sampledata.
