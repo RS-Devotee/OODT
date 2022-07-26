@@ -44,7 +44,7 @@ The multi-object tracking (MOT) datasets is tentatively labeled with 8602 vehicl
 ### (1)SOT
 The raw satellite video data is collected from various sources, such as the JiLin-1 satellite constellation [<sup>[1]</sup>](#R1), SkySat satellite constellation[<sup>[2]</sup>](#R2), object tracking contests [<sup>[3]</sup>](#R3)[<sup>[4]</sup>](#R4)[<sup>[5]</sup>](#R5), and some other publicly available videos [<sup>[6]</sup>](#R6)[<sup>[7]</sup>](#R7).
 ### (2)MOT
-SVD1 and SVD2 are collected from JiLin-1 satellite constellation [<sup>[8]</sup>](#R8). SVD3 is collected from IRIS camera on the International Space Station[<sup>[9]</sup>](#R9) .SVD4 is collected from [[10]](#R10). And SVD5 is collected from [[11]](#R11).
+SVD1 and SVD2 are collected from JiLin-1 satellite constellation [<sup>[8]</sup>](#R8). SVD3 is collected from IRIS camera on the International Space Station[<sup>[3]</sup>](#R3) .SVD4 and SVD5 are collected from [<sup>[9]<sup>](#R9)[<sup>[10]<sup>](#R10).
 ### (3)Source
 <div><a name="R1"></a>  
 [1] https://mall.charmingglobe.com/Sampledata.
@@ -71,13 +71,10 @@ SVD1 and SVD2 are collected from JiLin-1 satellite constellation [<sup>[8]</sup>
 [8]http://www.grss-ieee.org/community/technical-committees/data-fusion/2016-ieee-grss-data-fusion-contest-results/
 </div>
 <div><a name="R9"></a>  
-[9]https://www.grss-ieee.org/resources/tutorials/data-fusion-tutorial-in-spanish/
+[9]https://www.youtube.com/watch?v=aW1-ZWencvA
 </div>
 <div><a name="R10"></a>  
-[10]https://www.youtube.com/watch?v=aW1-ZWencvA
-</div>
-<div><a name="R11"></a>  
-[11]https://www.youtube.com/watch?v=lKNAY5ELUZY
+[10]https://www.youtube.com/watch?v=lKNAY5ELUZY
 </div>
 
 ### Contact
