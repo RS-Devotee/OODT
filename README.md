@@ -2,8 +2,8 @@
 This is the official website of the **OODT** dataset.
 
 ## Data download link
-Baidu netdisk：https://pan.baidu.com/s/1hY-RF2tk914vgr-JqcLF2g (Extraction Code:OODT)  
-Google drive：https://drive.google.com/file/d/16gyJ-HKZQhQw8CJkcvvRMyw6qYm0wIG3/view?usp=sharing
+Baidu netdisk：https://pan.baidu.com/s/1-ASug7eBuktsBqTnNLYv_g (Extraction Code:OODT)  
+Google drive：https://drive.google.com/file/d/1mBp3XiGCbM05BLHd4qW9iA_PJ78wgzrT/view?usp=sharing
 
 ## 1.Data Introduction
 OODT is the first dataset of oriented objects for object detection and tracking in satellite vedio datasets (SVDs), in which  each object is **labeled as a rectangular box with rotating orientation**. It consists of the single-object and multi-object tracking datasets.
@@ -77,5 +77,8 @@ SVD1 and SVD2 are collected from JiLin-1 satellite constellation [<sup>[8]</sup>
 [10]https://www.youtube.com/watch?v=lKNAY5ELUZY
 </div>
 
+### License
+The provided dataset has been authorized by Changguang Satellite Technology Co., Ltd..
+  
 ### Contact
 If you have any questions, please contact oodt_server@163.com.
