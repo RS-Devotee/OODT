@@ -12,7 +12,7 @@ OODT is the first dataset of oriented objects for object detection and tracking 
 <img src="https://github.com/RS-Devotee/OODT/blob/main/Figure/sheet1.png">
 </div>
 
-The multi-object tracking (MOT) datasets is tentatively labeled with 8602 vehicles in 41 frames of five SVDs .
+The multi-object tracking (MOT) datasets is tentatively labeled with 8630 vehicles in 41 frames of five SVDs .
 <div align=center>
 <img src="https://github.com/RS-Devotee/OODT/blob/main/Figure/sheet2.png">
 </div>
