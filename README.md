@@ -76,9 +76,6 @@ SVD1 and SVD2 are collected from JiLin-1 satellite constellation [<sup>[8]</sup>
 <div><a name="R10"></a>  
 [10]https://www.youtube.com/watch?v=lKNAY5ELUZY
 </div>
-
-### License
-The provided dataset has been authorized by Changguang Satellite Technology Co., Ltd..
   
 ### Contact
 If you have any questions, please contact oodt_server@163.com.
