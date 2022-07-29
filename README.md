@@ -2,8 +2,8 @@
 This is the official website of the **OODT** dataset.
 
 ## Data download link
-Baidu netdisk：https://pan.baidu.com/s/15xYlW1ojNC71E99ono96bg (Extraction Code:OODT)  
-Google drive：https://drive.google.com/file/d/17Gm5kqFDijwUYDR6XOugpA47z4V--4ko/view?usp=sharing
+Baidu netdisk：https://pan.baidu.com/s/1IsBQlVc4PD4DTFqe3L0hLg (Extraction Code:OODT)  
+Google drive：https://drive.google.com/file/d/1TK7-D-LhZcL2jgowuSqe_Q0TaxsNh7mk/view?usp=sharing
 
 ## 1.Data Introduction
 OODT is the first dataset of oriented objects for object detection and tracking in satellite vedio datasets (SVDs), in which  each object is **labeled as a rectangular box with rotating orientation**. It consists of the single-object and multi-object tracking datasets.
@@ -12,7 +12,7 @@ OODT is the first dataset of oriented objects for object detection and tracking 
 <img src="https://github.com/RS-Devotee/OODT/blob/main/Figure/sheet1.png">
 </div>
 
-The multi-object tracking (MOT) datasets is tentatively labeled with 8630 vehicles in 41 frames of five SVDs .
+The multi-object tracking (MOT) datasets is tentatively labeled with 8628 vehicles in 41 frames of five SVDs .
 <div align=center>
 <img src="https://github.com/RS-Devotee/OODT/blob/main/Figure/sheet2.png">
 </div>
